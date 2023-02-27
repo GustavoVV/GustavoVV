@@ -5,7 +5,7 @@
 </div>
 
 
-- 🔭 I’m currently working on CGI as as Senior Developer (Java, Angular, Eclipse, JavaScript, AWS...) you want to know more check my Linkedin profile https://www.linkedin.com/in/gustavovidalvicent
+- 🔭 I’m currently working on CGI as as Senior Developer (Java, Angular, Eclipse, JavaScript, AWS...)
 - 🌱 I’m currently learning JavaScript and Cloud technologies
 - 👯 I’m looking to collaborate on interesting projects (from my point of view :P) Health, Space, Blockchain ...
 - 🤔 I’m looking for help with find a company were I could fit
@@ -42,10 +42,10 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"
         width="48"
         height="48"
-        alt="Sass"
+        alt="Java"
       />
       <br /><strong>Sass</strong>
     </td>
