@@ -42,12 +42,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"
+        src="https://cdn-icons-png.flaticon.com/512/226/226777.png"
         width="48"
         height="48"
         alt="Java"
       />
-      <br /><strong>Sass</strong>
+      <br /><strong>Java</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
