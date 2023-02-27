@@ -98,21 +98,21 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Apache_kafka-icon.svg/1200px-Apache_kafka-icon.svg.png"
         width="48"
         height="48"
-        alt="MongoDB"
+        alt="Apache Kafka"
       />
-      <br /><strong>MongoDB</strong>
+      <br /><strong>Apache Kafka</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        src="https://i.pinimg.com/originals/28/75/3d/28753ddf79d70042ba86564947e13bf5.png"
         width="48"
         height="48"
-        alt="PostgreSQL"
+        alt="JavaScript"
       />
-      <br /><strong>PostgreSQL</strong>
+      <br /><strong>JavaScript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
