@@ -107,7 +107,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://i.pinimg.com/originals/28/75/3d/28753ddf79d70042ba86564947e13bf5.png"
+        src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
         width="48"
         height="48"
         alt="JavaScript"
