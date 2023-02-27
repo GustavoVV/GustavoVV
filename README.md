@@ -115,60 +115,6 @@
       <br /><strong>JavaScript</strong>
     </td>
 
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        width="48"
-        height="48"
-        alt="MongoDB"
-      />
-      <br /><strong>MongoDB</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br /><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-        width="48"
-        height="48"
-        alt="Firebase"
-      />
-      <br /><strong>Firebase</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        width="48"
-        height="48"
-        alt="Python"
-      />
-      <br /><strong>Python</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-        width="48"
-        height="48"
-        alt="Docker"
-      />
-      <br /><strong>Docker</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-        width="48"
-        height="48"
-        alt="AWS"
-      />
-      <br /><strong>AWS</strong>
-    </td>
   </tr>
 </table>
 
