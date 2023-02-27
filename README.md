@@ -1,17 +1,17 @@
 ### Hi there 👋
 
 <div align="justify">
-    My name is Gustavo and I'm a Full Stack Engineer (sometimes Technical support, DevOps, Administator ... XD) I love technology. Right now I am looking for my next step. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+    My name is Gustavo and I'm a Full Stack Engineer (sometimes Technical Support, DevOps, Admin ... XD) I love technology. Right now, I am looking for my next step. I'm also passionate about exploring new technologies, which I can leverage to solve real-life problems.
 </div>
 
 
-- 🔭 I’m currently working on CGI as as Senior Developer (Java, Angular, Eclipse, JavaScript, AWS...)
-- 🌱 I’m currently learning JavaScript and Cloud technologies
+- 🔭 I’m currently working on CGI as Senior Developer (Java, Angular, Eclipse, JavaScript, AWS ...)
+- 🌱 I’m currently learning JavaScript and cloud technologies.
 - 👯 I’m looking to collaborate on interesting projects (from my point of view :P) Health, Space, Blockchain ...
-- 🤔 I’m looking for help with find a company were I could fit
-- 💬 Ask me about anything you want or feel interesting, I like technology, space, health, self-improvement, learn other languages, have nice talks, fire
-- 📫 How to reach me: Well you have my linkedin so ....
-- ⚡ Fun fact: When I was a toddler I wanted to be an astronaut and inventor 👨‍🚀🔭🕵️‍♂️ I think I did it more or less :D
+- 🤔 I’m looking for help finding a company where I could fit
+- 💬 Ask me anything you want or find interesting; I enjoy technology, space, health, self-improvement, learning other languages, having nice conversations
+- 📫 How to reach me: Well you have my Linkedin so ....
+- ⚡ Fun fact: When I was a toddler, I wanted to be an astronaut and inventor 👨‍🚀🔭🕵️‍♂️ I think I did it more or less :D
 
 
 
