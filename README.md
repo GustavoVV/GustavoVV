@@ -1,29 +1,22 @@
 ### Hi there 👋
 
-
-**GustavoVV/GustavoVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-# 👋 Hey there
-
 <div align="justify">
-    My name is Michał and I'm a Full Stack Engineer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+    My name is Gustavo and I'm a Full Stack Engineer (sometimes Technical support, DevOps, Administator ... XD) I love technology. Right now I am looking for my next step. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
-<br/><a href="https://www.linkedin.com/in/michalosman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="mailto:michal.osman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+
+- 🔭 I’m currently working on CGI as as Senior Developer (Java, Angular, Eclipse, JavaScript, AWS...) you want to know more check my Linkedin profile https://www.linkedin.com/in/gustavovidalvicent
+- 🌱 I’m currently learning JavaScript and Cloud technologies
+- 👯 I’m looking to collaborate on interesting projects (from my point of view :P) Health, Space, Blockchain ...
+- 🤔 I’m looking for help with find a company were I could fit
+- 💬 Ask me about anything you want or feel interesting, I like technology, space, health, self-improvement, learn other languages, have nice talks, fire
+- 📫 How to reach me: Well you have my linkedin so ....
+- ⚡ Fun fact: When I was a toddler I wanted to be an astronaut and inventor 👨‍🚀🔭🕵️‍♂️ I think I did it more or less :D
+
+
+
+<br/><a href="https://www.linkedin.com/in/gustavovidalvicent"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:argelast@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 # 🔧 Technologies & Tools
 
@@ -40,30 +33,12 @@ Here are some ideas to get you started:
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-        width="48"
-        height="48"
-        alt="VueJS"
-      />
-      <br /><strong>Vue</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
         height="48"
         alt="React"
       />
       <br /><strong>React</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="48"
-        height="48"
-        alt="Next.js"
-      />
-      <br /><strong>Next.js</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
