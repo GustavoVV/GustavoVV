@@ -1,4 +1,3 @@
-# Gustavo Vidal Vicent's Portfolio
 
 ### Hi there 👋
 
@@ -20,20 +19,22 @@
 
 ## 📁 Portfolio
 
+### Personal AI Starter Pack
+![Personal AI Starter Pack](https://images.unsplash.com/photo-1581091870621-1a7f1a1b1d1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fEFJfGVufDB8fHx8MTYyNjY2NjY2NQ&ixlib=rb-1.2.1&q=80&w=400)
+**Description:** A starter pack for personal AI projects, including tools and resources to get started with AI development.  
+**Links:** [View](https://github.com/GustavoVV/personal-ai-starter-pack) | [Source](https://github.com/GustavoVV/personal-ai-starter-pack)
+
+
 ### Financial Independence Calculator
-![Financial Independence Calculator](https://via.placeholder.com/150)
+![Financial Independence Calculator](https://images.unsplash.com/photo-1565372910584-2f6a2c7d6d7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGZpbmFuY2V8ZW58MHx8fHwxNjI2NjY2NjY2&ixlib=rb-1.2.1&q=80&w=400)
 **Description:** A tool to calculate financial independence.  
 **Links:** [View](https://gustavovv.github.io/firecalculator.html) | [Source](https://github.com/gustavovv/firecalculator)
 
 ### Roommates Website
-![Roommates Website](https://via.placeholder.com/150)
+![Roommates Website](https://images.unsplash.com/photo-1596495577886-d920f1d5d2d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fHJvb21tYXRlc3xlbnwwfHx8fDE2MjY2NjY2NjY&ixlib=rb-1.2.1&q=80&w=400)
 **Description:** A website designed for roommates to manage shared expenses, chores, and communication.  
 **Links:** [View](https://gustavovv.github.io/index.html) | [Source](https://github.com/gustavovv/gustavovv.github.io)
 
-### Project 3
-![Project 3](https://via.placeholder.com/150)
-**Description:** A brief description of Project 3.  
-**Links:** [View](#) | [Source](#)
 
 ## 🛠️ Technical Skills
 
