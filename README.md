@@ -79,7 +79,7 @@
         <polygon points="50,0 75,25 50,50 25,25" fill="gray"/>
         <polygon points="50,50 75,75 50,100 25,75" fill="gray"/>
       </svg>
-      <br /><strong>New Icon</strong>
+      <br /><strong>Cursor</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
