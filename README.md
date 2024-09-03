@@ -13,10 +13,9 @@
 - 👯 **Collaboration Interests**: Health, Space, AI Generative, AI Engineering
 - 🤔 **Experience**: Developer, support specialist, and cloud administrator across multiple technologies and sectors
 - 💬 **Interests**: Technology, space, health, self-improvement, learning other languages
-- 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/gustavovidalvicent) | [Email](mailto:vidalvicentgustavo@gmail.com)
 - ⚡ **Fun Fact**: Aspiring astronaut and inventor since childhood 👨‍🚀🔭🕵️‍♂️
 
-<br/>
+## 📫 Contact
 <a href="https://www.linkedin.com/in/gustavovidalvicent"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:vidalvicentgustavo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
@@ -36,10 +35,12 @@
 ## 🛠️ Technical Skills
 
 **Programming Languages and Environments:**
+- **Java**
+- **Python**
+- **JavaScript**
 - **AWS**
 - **Spring Web Services**
 - **Oracle SQL**
-- **JavaScript**
 - **SVN/Git**
 - **XML/JSON/WSDL/XSD**
 
@@ -72,7 +73,7 @@
 <table>
   <tr>
     <td align="center" height="108" width="108">
-      <img src="https://www.svgrepo.com/show/331760/cursor.svg" width="48" height="48" alt="Cursor" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cursor_icon.svg" width="48" height="48" alt="Cursor" />
       <br /><strong>Cursor</strong>
     </td>
     <td align="center" height="108" width="108">
