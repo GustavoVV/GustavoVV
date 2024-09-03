@@ -1,56 +1,53 @@
 
+# Gustavo Vidal Vicent
+
 ### Hi there 👋
 
 <div align="justify">
-    My name is Gustavo and I'm a Full Stack Engineer (sometimes Technical Support, DevOps, Admin ... XD). I love technology. Right now, I am looking for my next step. I'm also passionate about exploring new technologies, which I can leverage to solve real-life problems. I am also passionate about AI, Generative AI, Cursor, and Programming.
+    My name is Gustavo and I'm a **Full Stack Engineer** with over fourteen years of experience. I specialize in **Java, Angular, AWS, Python**, and more. I am passionate about exploring new technologies to solve real-life problems, particularly in **AI, Generative AI, and Programming**.
 </div>
 
-- 🔭 I'm currently working at CGI as a Senior Developer (Java, Angular, Eclipse, JavaScript, AWS, Python ...)
-- 🌱 I'm currently improving my knowledge in AI Generative Code and cloud technologies.
-- 👯 I'm looking to collaborate on interesting projects (from my point of view :P) Health, Space, AI Generative, AI Engineering ...
-- 🤔 With over fourteen years of experience as a developer, support specialist, and cloud administrator across multiple technologies and sectors. I am now oriented towards becoming an AI integration specialist and driving technological innovation.
-- 💬 Ask me anything you want or find interesting; I enjoy technology, space, health, self-improvement, learning other languages, and having nice conversations.
-- 📫 How to reach me: Well, you have my [LinkedIn](https://www.linkedin.com/in/gustavovidalvicent) so ....
-- ⚡ Fun fact: When I was a toddler, I wanted to be an astronaut and inventor 👨‍🚀🔭🕵️‍♂️ I think I did it more or less :D
+## Professional Summary
+- 🔭 **Current Role**: Senior Developer at CGI (Java, Angular, Eclipse, JavaScript, AWS, Python)
+- 🌱 **Learning**: AI Generative Code and cloud technologies
+- 👯 **Collaboration Interests**: Health, Space, AI Generative, AI Engineering
+- 🤔 **Experience**: Developer, support specialist, and cloud administrator across multiple technologies and sectors
+- 💬 **Interests**: Technology, space, health, self-improvement, learning other languages
+- 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/gustavovidalvicent) | [Email](mailto:vidalvicentgustavo@gmail.com)
+- ⚡ **Fun Fact**: Aspiring astronaut and inventor since childhood 👨‍🚀🔭🕵️‍♂️
 
 <br/>
 <a href="https://www.linkedin.com/in/gustavovidalvicent"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:vidalvicentgustavo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 ## 📁 Portfolio
-
 ### Personal AI Starter Pack
-![Personal AI Starter Pack](https://images.unsplash.com/photo-1581091870621-1a7f1a1b1d1c?crop=entropy&cs=tinysrgb&fit=max&fm=png&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fEFJfGVufDB8fHx8MTYyNjY2NjY2NQ&ixlib=rb-1.2.1&q=80&w=400)
 **Description:** A starter pack for personal AI projects, including tools and resources to get started with AI development.  
 **Links:** [View](https://github.com/GustavoVV/personal-ai-starter-pack) | [Source](https://github.com/GustavoVV/personal-ai-starter-pack)
 
-
 ### Financial Independence Calculator
-![Financial Independence Calculator](https://images.unsplash.com/photo-1565372910584-2f6a2c7d6d7b?crop=entropy&cs=tinysrgb&fit=max&fm=png&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGZpbmFuY2V8ZW58MHx8fHwxNjI2NjY2NjY2&ixlib=rb-1.2.1&q=80&w=400)
 **Description:** A tool to calculate financial independence.  
 **Links:** [View](https://gustavovv.github.io/firecalculator.html) | [Source](https://github.com/gustavovv/firecalculator)
 
 ### Roommates Website
-![Roommates Website](https://images.unsplash.com/photo-1596495577886-d920f1d5d2d8?crop=entropy&cs=tinysrgb&fit=max&fm=png&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fHJvb21tYXRlc3xlbnwwfHx8fHwxNjI2NjY2NjY2&ixlib=rb-1.2.1&q=80&w=400)
 **Description:** A website designed for roommates to manage shared expenses, chores, and communication.  
 **Links:** [View](https://gustavovv.github.io/index.html) | [Source](https://github.com/gustavovv/gustavovv.github.io)
-
 
 ## 🛠️ Technical Skills
 
 **Programming Languages and Environments:**
-- AWS
-- Spring Web Services
-- Oracle SQL
-- JavaScript
-- SVN/Git
-- XML/JSON/WSDL/XSD
+- **AWS**
+- **Spring Web Services**
+- **Oracle SQL**
+- **JavaScript**
+- **SVN/Git**
+- **XML/JSON/WSDL/XSD**
 
 **Methodologies:**
-- Scrum
+- **Scrum**
 
 **Testing and Code Quality:**
-- SonarQube
+- **SonarQube**
 
 ## 🔑 Key Projects
 
