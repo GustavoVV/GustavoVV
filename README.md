@@ -73,7 +73,12 @@
 <table>
   <tr>
     <td align="center" height="108" width="108">
-      <img src="https://user-images.githubusercontent.com/123456789/1234567890.jpg" width="48" height="48" alt="New Icon" />
+      <svg width="48" height="48" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+        <rect width="100" height="100" fill="black"/>
+        <polygon points="50,0 100,50 50,100 0,50" fill="white"/>
+        <polygon points="50,0 75,25 50,50 25,25" fill="gray"/>
+        <polygon points="50,50 75,75 50,100 25,75" fill="gray"/>
+      </svg>
       <br /><strong>New Icon</strong>
     </td>
     <td align="center" height="108" width="108">
