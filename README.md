@@ -73,8 +73,8 @@
 <table>
   <tr>
     <td align="center" height="108" width="108">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cursor_icon.svg" width="48" height="48" alt="Cursor" />
-      <br /><strong>Cursor</strong>
+      <img src="https://user-images.githubusercontent.com/123456789/1234567890.jpg" width="48" height="48" alt="New Icon" />
+      <br /><strong>New Icon</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
